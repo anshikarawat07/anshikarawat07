@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Anshika Rawat 👋</h1>  
 
 <p align="center">
-  🎓 BTech CSE | 🤖 ML Enthusiast | 🌍 Full-Stack Explorer | 🚀 Problem Solver  
+  🎓 BTech CSE |  🌍 Full-Stack Explorer | 🚀 Problem Solver  
 </p>
 
 ---
