@@ -12,22 +12,7 @@
 
  
 ---
-## 🌟 Featured Projects  
 
-🚀 **[Plant Disease Detection](https://github.com/anshikarawat07/plant-disease-detection)**  
-📌 **AI-based plant disease classification model with a user-friendly interface**  
-
-🌦 **[Weather App](https://github.com/anshikarawat07/weather-app)**  
-📌 **A real-time weather app using APIs, React, and OpenWeatherMap**  
-
-🛍 **[Amazon Clone](https://github.com/anshikarawat07/amazon-clone)**  
-📌 **A full-stack Amazon-inspired e-commerce platform**  
-
-🎵 **[Spotify Clone](https://github.com/anshikarawat07/spotify-clone)**  
-📌 **A music streaming web app with playlists and user authentication**  
-
----
----
 
 ## 🛠 Tech Stack  
 💻 **Languages:** Python, JavaScript, C++  
