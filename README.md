@@ -5,9 +5,8 @@
 </p>
 
 ---
-<p>💻 **2nd Year BTech CSE Student**  <br>
+<p>💻 **3rd Year BTech CSE Student**  <br>
 🚀 Passionate about Machine Learning, Web Development, and Open Source <br> 
-🎯 Currently building: **Automated Plant Disease Detection**  <br>
 🌱 Learning: **Backend Development & Full-Stack Web Dev**  <br>
 💡 Open to collaboration on AI/ML and Full-Stack projects </p>
 
