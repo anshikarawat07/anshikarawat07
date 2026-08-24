@@ -5,7 +5,7 @@
 </p>
 
 ---
-<p>💻 **3rd Year BTech CSE Student**  <br>
+<p>💻 ** BTech CSE Student**  <br>
 🚀 Passionate about Machine Learning, Web Development, and Open Source <br> 
 🌱 Learning: **Backend Development & Full-Stack Web Dev**  <br>
 💡 Open to collaboration on AI/ML and Full-Stack projects </p>
